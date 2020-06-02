@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wear HR Test</string>
+    <string name="fetch_button">Fetch HR</string>
+    <string name="status_loading_devices">Loading devices</string>
+    <string name="status_device_list_failure">Loading devices failed</string>
+    <string name="status_loading_hr">Fetching HR</string>
+    <string name="status_hr">Heart rate: %1$d BPM</string>
+    <string name="status_requesting_perm">Please check permission request on watch</string>
+    <string name="status_timeout">Measurement timeout</string>
+    <string name="status_unexpected">Unexpected status %d</string>
+    <string name="status_permission_denied">Permission denied</string>
+</resources>
